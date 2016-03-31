@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/upsmart/git/upsmart-dmp/conf/application.conf,/home/upsmart/git/upsmart-dmp/target/scala-2.10/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/home/upsmart/git/upsmart-dmp/conf/logger.xml,/home/upsmart/git/upsmart-dmp/target/scala-2.10/classes/logger.xml)[0m
+[0m[[0mdebug[0m] [0m	(/home/upsmart/git/upsmart-dmp/conf/routes,/home/upsmart/git/upsmart-dmp/target/scala-2.10/classes/routes)[0m

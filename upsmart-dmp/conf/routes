@@ -1,0 +1,13 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+GET     /                           controllers.MainController.index()
+GET     /interface                  controllers.MainController.interface()
+GET     /analyse                    controllers.MainController.analyse()
+GET     /queryById/*id/*idType      controllers.MainController.queryAudienceById(id, idType)
+POST    /query                      controllers.MainController.queryAudience()
+GET     /rawdata/:limit/:skip       controllers.MainController.rawData(limit: Int, skip: Int)
+
+GET     /css/*file                  controllers.Assets.at(path="/public/css", file)
+GET     /js/*file                   controllers.Assets.at(path="/public/js", file)

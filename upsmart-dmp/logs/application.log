@@ -1,0 +1,15 @@
+2015-09-11 15:38:36,028 - [INFO] - from play in pool-4-thread-3 
+Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+
+2015-09-11 15:39:06,209 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2015-09-11 15:39:06,430 - [INFO] - from akka.event.slf4j.Slf4jLogger in play-akka.actor.default-dispatcher-2 
+Slf4jLogger started
+
+2015-09-11 15:39:17,954 - [INFO] - from controllers.MainController$ in play-akka.actor.default-dispatcher-6 
+query audience: query condition: $condition
+
+2015-09-11 15:39:20,903 - [INFO] - from controllers.MainController$ in play-akka.actor.default-dispatcher-8 
+query audience: query condition: $condition
+
